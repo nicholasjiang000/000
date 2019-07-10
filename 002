@@ -1,0 +1,597 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "101 BLOOR STREET WEST "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39141273498535,
+          43.66902795091082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "125 SIR WILLIAM HEARST AVENUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.48595523834229,
+          43.72338185334197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "153 DUNDAS STREET WEST "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38568353652954,
+          43.65514262872613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "17310 YONGE STREET "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.48187828063963,
+          44.04988933024977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "1880 EGLINTON AVENUE EAST "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.29940223693848,
+          43.72608003508531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "195 HENRY STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24147987365721,
+          43.156424020058274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "2 BLOOR STREET WEST "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3872258067131,
+          43.67037634031178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "217 YORK STREET "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.24579280614853,
+          42.98175810181053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "2180 ITABASHI WAY "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.79488402605055,
+          43.3870703558223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "11 BEECHGROVE LANE "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.52111917734146,
+          44.21910599811833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "23 BEECHGROVE LANE "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.52095019817352,
+          44.219644234179164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "2380 ST LAURENT BOULEVARD "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.62322556972504,
+          45.383569371368935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "2435 HIGHWAY 61 SOUTH "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.38161134719849,
+          48.30786103751585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "315 FRONT STREET WEST "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39011722803116,
+          43.64358524852316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "347 PRESTON STREET "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.71014255285263,
+          45.401969890637496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "375 UNIVERSITY AVENUE "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38703536987305,
+          43.65356684149867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "390 KING STREET EAST "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.15140068531036,
+          43.963333656520874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "400 BAYFIELD STREET "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.70657765865326,
+          44.40800244754758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "438 UNIVERSITY AVENUE "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38857495784758,
+          43.6543430965319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "50 BALLS DRIVE "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.32669639587402,
+          45.04590068250736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "521 SECOND LINE EAST "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.32536840438841,
+          46.538022964877975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "56 WELLESLEY STREET WEST "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38749670982361,
+          43.66462170756854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "5700 YONGE STREET "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.41670060157776,
+          43.78095156230466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "600 SANATORIUM ROAD "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.33372098207474,
+          42.96736152823428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "621 MAIN STREET WEST "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4705057144165,
+          46.3162210848023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "63 LORNE AVENUE EAST "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.99601745605469,
+          43.35285542468427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "660 IRELAND ROAD "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2800178527832,
+          42.82930674635727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "6711 MISSISSAUGA ROAD "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.73965466022491,
+          43.60213313243239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "6733 MISSISSAUGA ROAD "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.74160194396973,
+          43.603523811341965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "692 MAIN STREET EAST "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5997965335846,
+          45.6098083562612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "70 FOSTER DRIVE "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.33409631252289,
+          46.50976098825602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "80 GROSVENOR STREET "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38849717378616,
+          43.662103154618976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "850 KING STREET WEST "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.89518797397614,
+          43.89173823833191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "8500 MCLAUGHLIN ROAD SOUTH "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.75980877876282,
+          43.66628451551134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "1055 PRINCESS STREET "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.51651918888092,
+          44.24413837720943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "119 KING STREET WEST "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.87176954746246,
+          43.25724473659145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Office": "5775 Yonge St"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.41593617200851,
+          43.783263733078954
+        ]
+      }
+    }
+  ]
+}
